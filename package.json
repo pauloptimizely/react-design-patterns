@@ -1,0 +1,28 @@
+{
+  "name": "react-design-patterns",
+  "version": "0.0.0",
+  "description": "React design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloptimizely/react-design-patterns.git"
+  },
+  "keywords": [
+    "react",
+    "design",
+    "patterns"
+  ],
+  "author": "Paul Serraino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pauloptimizely/react-design-patterns/issues"
+  },
+  "homepage": "https://github.com/pauloptimizely/react-design-patterns#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.2.1"
+  }
+}
